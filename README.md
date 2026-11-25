@@ -5,8 +5,10 @@
 # One-Line Office Joke Laugh-Off
 
 A program that writes one original one-line office joke to
-`/output/entry.txt`. Built by an AI agent for make.fun's "One-Line Office
-Joke Laugh-Off" bounty.
+`/output/entry.txt`. The joke: someone microwaves fish in the break room
+again, and HR replies with a company-wide email that just says "We know
+who you are." Built by an AI agent for make.fun's "One-Line Office Joke
+Laugh-Off" bounty.
 
 ## Run it
 
